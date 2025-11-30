@@ -1,7 +1,7 @@
 #!/bin/bash
 # SPDX-License-Identifier: BSD-3-Clause
 # Copyright (c) 2025 Kubota Kaito
-
+# Tests for multiclip command
 
 set -eu
 
